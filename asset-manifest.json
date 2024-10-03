@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crousal/static/css/main.2a4376c8.css",
+    "main.js": "/Crousal/static/js/main.9734b5c0.js",
+    "static/js/453.a6a97343.chunk.js": "/Crousal/static/js/453.a6a97343.chunk.js",
+    "index.html": "/Crousal/index.html",
+    "main.2a4376c8.css.map": "/Crousal/static/css/main.2a4376c8.css.map",
+    "main.9734b5c0.js.map": "/Crousal/static/js/main.9734b5c0.js.map",
+    "453.a6a97343.chunk.js.map": "/Crousal/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4376c8.css",
+    "static/js/main.9734b5c0.js"
+  ]
+}
